@@ -2,18 +2,18 @@ Foto Galery
 =================
 A simple demo foto galery in Django and JavaScript.
 
-Clone repo:
+## Clone repo:
 ```
 git clone https://github.com/dkuzmin-rus86/foto-galery.git
 cd foto-galery
 ```
 
-Install dependencies:
+## Install dependencies:
 ```
 pip install -r requirements.txt
 ```
 
-Start server:
+## Start server:
 ```
 cd fotogalery_proj
 python manage.py runserver
