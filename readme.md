@@ -1,4 +1,4 @@
-Foto Galery
+# Foto Galery
 =================
 A simple demo foto galery in Django and JavaScript.
 
