@@ -121,8 +121,6 @@ STATICFILES_DIRS = [BASE_DIR / 'static']
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
-# STATIC_ROOT = '/home/user/hantaton/static/'
-
 LOGIN_REDIRECT_URL =  '/'
 
 LANGUAGE_CODE = 'ru-ru'
